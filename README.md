@@ -1,2 +1,2 @@
-# X-analytics
-Analysis done with intent. Agent that uses consumer behavior framework based decisions to conduct analysis. 
+# ai-agent-feedback-triage
+Collecting and analyzing public developer feedback on AI agent frameworks.
