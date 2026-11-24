@@ -24,7 +24,7 @@ def download_page(page_number):
     """Ask GitHub for one page of open issues (and possibly pull requests)."""
     query = urlencode(
         {
-            "state": "open",
+            "state": "all",
             "per_page": ITEMS_PER_PAGE,
             "page": page_number,
         }
